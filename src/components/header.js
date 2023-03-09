@@ -26,7 +26,7 @@ const header = () => {
       >
         <SocialIcon
           className="animate-pulse"
-          url="https://github.com/MarcusWithers"
+          url="https://github.com/MarcusWithers/min-max-normalization"
           bgColor="transparent"
           fgColor="#FA6000"
           target="_blank"
