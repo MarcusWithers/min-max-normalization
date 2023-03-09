@@ -24,7 +24,6 @@ export default function Home() {
     setArray((prevArray) => [...prevArray]);
   }, [array]);
 
-  // Function that splits the file into up into rows and separates the data.
   const csvFileToArray = (string) => {
     const csvHeader = string.slice(0, string.indexOf("\n")).split(",");
     const csvRows = string.slice(string.indexOf("\n") + 1).split("\n");
