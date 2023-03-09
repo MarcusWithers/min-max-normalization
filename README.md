@@ -1,6 +1,6 @@
 Live site - https://min-max-normalization.vercel.app/ <br/>
 
-Technology Used - <br/>
+Technologies Used - <br/>
 HTML, Tailwind CSS, JavaScript, React, NextJS, Various React Libraries.
 
 How to Use - <br/>
