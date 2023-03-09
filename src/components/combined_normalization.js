@@ -57,13 +57,13 @@ const combined_normalization = ({ array }) => {
   }));
 
   // Array containg header titles for displaying the data.
-  const headerTitles = ["Location Name", "Combined Normalization"];
+  const headerTitles = ["Location Name", "Combined Normalization Score"];
 
   return (
     <div className="space-y-5 mt-5 m-auto h-screen">
       <Background_Animation />
       <h1 className="text-3xl text-center text-[#FA6000] pt-16">
-        Combined Normalization
+        Combined Normalization Score
       </h1>
       <table className="m-auto mt-5">
         <thead>
